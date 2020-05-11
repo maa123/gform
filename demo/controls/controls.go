@@ -2,7 +2,7 @@ package main
 
 import (
     "github.com/AllenDang/gform"
-    "github.com/AllenDang/w32"
+    "github.com/gonutz/w32"
 )
 
 var (
